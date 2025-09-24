@@ -1,3 +1,4 @@
 # Le fichier .gitignore sert à indiquer à Git quels fichiers ou dossiers ne doivent pas être suivis ni enregistrés dans le dépôt.
 
-.idea # ignore le dossier WebStorm
+# ignore le dossier .idea/ de WebStorm et tout son contenu
+.idea 
